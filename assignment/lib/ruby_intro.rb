@@ -98,6 +98,7 @@ end
 
 
 def price_as_string
+  # Little change to check if everything was coool
    result = "$%.2f" %price
    return result
 end 
