@@ -99,7 +99,7 @@ end
 
 def price_as_string
    result = "$%.2f" %price
-   p result
+   return result
 end 
 
 end
